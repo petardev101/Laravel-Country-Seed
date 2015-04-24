@@ -238,7 +238,7 @@ class CountriesTableSeeder extends Seeder {
 			array('code' => 'VA', 'name' => 'Vatican City State'),
 			array('code' => 'VE', 'name' => 'Venezuela'),
 			array('code' => 'VN', 'name' => 'Vietnam'),
-			array('code' => 'VG', 'name' => 'Virigan Islands (British)'),
+			array('code' => 'VG', 'name' => 'Virgin Islands (British)'),
 			array('code' => 'VI', 'name' => 'Virgin Islands (U.S.)'),
 			array('code' => 'WF', 'name' => 'Wallis and Futuna Islands'),
 			array('code' => 'EH', 'name' => 'Western Sahara'),
