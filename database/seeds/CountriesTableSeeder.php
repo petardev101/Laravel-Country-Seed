@@ -63,6 +63,7 @@ class CountriesTableSeeder extends Seeder {
 			array('code' => 'CU', 'name' => 'Cuba'),
 			array('code' => 'CY', 'name' => 'Cyprus'),
 			array('code' => 'CZ', 'name' => 'Czech Republic'),
+			array('code' => 'CD', 'name' => 'Democratic Republic of Congo'),
 			array('code' => 'DK', 'name' => 'Denmark'),
 			array('code' => 'DJ', 'name' => 'Djibouti'),
 			array('code' => 'DM', 'name' => 'Dominica'),
