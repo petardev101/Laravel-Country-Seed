@@ -181,6 +181,7 @@ class CountriesTableSeeder extends Seeder {
 			array('code' => 'PT', 'name' => 'Portugal'),
 			array('code' => 'PR', 'name' => 'Puerto Rico'),
 			array('code' => 'QA', 'name' => 'Qatar'),
+			array('code' => 'SS', 'name' => 'Republic of South Sudan'),
 			array('code' => 'RE', 'name' => 'Reunion'),
 			array('code' => 'RO', 'name' => 'Romania'),
 			array('code' => 'RU', 'name' => 'Russian Federation'),
